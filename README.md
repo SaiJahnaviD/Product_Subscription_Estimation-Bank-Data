@@ -122,19 +122,6 @@ scikit-learn==1.0.2
 jupyter==1.0.0
 ```
 
-## 📊 Project Workflow
-```mermaid
-graph LR
-A[Data Collection] --> B[Data Cleaning]
-B --> C[EDA & Visualization]
-C --> D[Feature Engineering]
-D --> E[Data Standardization]
-E --> F[Train-Test Split]
-F --> G[Model Training]
-G --> H[Hyperparameter Tuning]
-H --> I[Model Evaluation]
-I --> J[Best Model Selection]
-```
 
 ## 💡 Methodology
 
