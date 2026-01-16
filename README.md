@@ -1,5 +1,5 @@
 
-# 🏦 Bank Marketing Campaign Analysis & Prediction
+# 🏦 Bank Marketing Campaign Analysis for Product Subscription Estimation
 
 ## 📊 Project Overview
 
